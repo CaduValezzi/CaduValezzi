@@ -14,9 +14,6 @@ Sou freelancer desde 2022 e tenho experiência prática em desenvolvimento web, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaduValezzi&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CaduValezzi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CaduValezzi&icon=0&color=4)](https://visitcount.itsvg.in)
 
