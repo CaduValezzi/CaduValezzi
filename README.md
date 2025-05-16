@@ -1,5 +1,5 @@
 # 💫 About Me
-Sou freelancer desde 2022 e tenho experiência prática em desenvolvimento web, bem como conhecimento em Design de Interface de Usuário e Experiência do Usuário (UI/UX). Capaz de criar interfaces limpas e eficientes para atrair o público-alvo.<br><br>Experiência com integrações de API's em sistemas Web, como criação de formulários que enviam informações do público para o cliente, e sistemas de verificação de nûmeros celular, ou verificação de e-mail. Atualmente, estou cursando Engenharia de Software (FIAP), para aprimorar minhas habilidades.
+Tenho experiência prática em desenvolvimento web, bem como conhecimento em Design de Interface de Usuário e Experiência do Usuário (UI/UX). Capaz de criar interfaces limpas e eficientes para atrair o público-alvo.<br><br>Experiência com integrações de API's em sistemas Web, como criação de formulários que enviam informações do público para o cliente, e sistemas de verificação de nûmeros celular, ou verificação de e-mail. Atualmente, estou cursando Engenharia de Software (FIAP), para aprimorar minhas habilidades.
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cadu-valezzi-09a837207)
